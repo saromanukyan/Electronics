@@ -21,14 +21,14 @@ Electronics Store with colored console menu )) To run this program go to    [thi
 - [Household Appliances](src/models/HouseholdAppliances.java)
   - [Microwave](src/models/Microwave.java)
   - [Refrigerator](src/models/Refrigerator.java)
-  - [Washing Machine](src/models/WashingMachinePC.java)
+  - [Washing Machine](src/models/WashingMachine.java)
 
 ## Interfaces
 
-- Features
-- Diagonal
-- Hardware
-- Dimensions
+- [Features](src/models/Features.java)
+- [Diagonal](src/models/Diagonal.java)
+- [Hardware](src/models/Hardware.java)
+- [Dimensions](src/models/Dimensions.java)
 
 
 ## Database
