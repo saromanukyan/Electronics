@@ -23,6 +23,14 @@ Electronics Store with colored console menu )) To run this program go to    [thi
   - Refrigerator
   - WashingMachine
 
+## Interfaces
+
+- Features
+- Diagonal
+- Hardware
+- Dimensions
+
+
 ## Database
 
 All data at files in [this folder](data), new objects are also adding here.
