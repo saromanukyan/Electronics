@@ -1,6 +1,6 @@
 # Electronics Store
 
-Electronics Store with colored console menu )) To run this program go to Electronics/src/main/Test.java
+Electronics Store with colored console menu )) To run this program go to    [this file](src/main/Test.java).
 <br>
 <p align="center">
 <img src="assets/console.PNG" alt="menu"></img>
