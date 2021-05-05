@@ -34,14 +34,14 @@ Electronics Store with colored console menu )) To run this program go to    [thi
 ## Database
 
 All data at files in [this folder](data), new objects are also adding here.
-- Laptop.txt
-- Microwave.txt
-- PC.txt
-- Refrigerator.txt
-- RegularPhone.txt
-- SmartPhone.txt
-- TV.txt
-- WashingMachine.txt
+- [Laptops](data/Laptop.txt)
+- [Microwaves](data/Microwave.txt)
+- [PCs](data/PC.txt)
+- [Refrigerators](data/Refrigerator.txt)
+- [Regular Phones](data/LapRegularPhonetop.txt)
+- [SmartPhones](data/SmartPhone.txt)
+- [TVs](data/TV.txt)
+- [Washing Machines](data/WashingMachine.txt)
 
 ## Services
 <details>
