@@ -39,6 +39,7 @@ All data at files in [this folder](data), new objects are also adding here.
 <details>
 <summary>View all services...</summary>
 <p>
+  
 1. Print all Electronics
 2. Print all Electronics in short form
 3. Print all available Electronics
@@ -47,7 +48,6 @@ All data at files in [this folder](data), new objects are also adding here.
 6. Print oldest Electronics
 7. Print name of most expensive Electronics
 8. Print count of WHITE Electronics
-
 1. Print all MobilePhones
 2. Print all MobilePhones in short form
 3. Print all available MobilePhones
