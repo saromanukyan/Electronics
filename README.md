@@ -8,20 +8,20 @@ Electronics Store with colored console menu )) To run this program go to    [thi
 
 ## Models
 
-- Computers
-  - Laptop
-  - PC
+- [Computers](src/models/Computer.java)
+  - [Laptop](src/models/Laptop.java)
+  - [PC](src/models/PC.java)
 
-- MobilePhones
-  - RegularPhone
-  - SmartPhone
+- [Mobile Phones](src/models/MobilePhone.java)
+  - [Regular Phone](src/models/RegularPhone.java)
+  - [SmartPhone](src/models/SmartPhone.java)
   
-- TV
+- [TV](src/models/TV.java)
 
-- Household Appliances
-  - Microwave
-  - Refrigerator
-  - WashingMachine
+- [Household Appliances](src/models/HouseholdAppliances.java)
+  - [Microwave](src/models/Microwave.java)
+  - [Refrigerator](src/models/Refrigerator.java)
+  - [Washing Machine](src/models/WashingMachinePC.java)
 
 ## Interfaces
 
