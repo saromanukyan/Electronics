@@ -38,7 +38,7 @@ All data at files in [this folder](data), new objects are also adding here.
 - [Microwaves](data/Microwave.txt)
 - [PCs](data/PC.txt)
 - [Refrigerators](data/Refrigerator.txt)
-- [Regular Phones](data/LapRegularPhone.txt)
+- [Regular Phones](data/RegularPhone.txt)
 - [SmartPhones](data/SmartPhone.txt)
 - [TVs](data/TV.txt)
 - [Washing Machines](data/WashingMachine.txt)
