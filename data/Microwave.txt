@@ -1,0 +1,3 @@
+Godrej, GME 530, 2001, RED, $120.2, Available, 4.0 kg, 53.5 x 44.9 x 28.2 cm, 44 min
+Samsung, CE1041, 2001, Black, $250.0, Available, 3.2 kg, 28.4 x 50.0 x 31.3 cm, 66 min
+IFB, 20SC, 2018, WHITE, $98.0, Available, 6.0 kg, 16.0 x 22.0 x 14.0 cm, 88 min

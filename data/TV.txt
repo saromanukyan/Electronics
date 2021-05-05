@@ -1,0 +1,4 @@
+Sony, X900H, 2020, WHITE, $2000.0, Available, 75.0 inch, SmartTV
+Toshiba, 32LF, 2020, PINK, $1250.0, Not Available, 32.0 inch, SmartTV
+Samsung, UN40N, 2019, WHITE, $850.0, Available, 40.0 inch, SmartTV
+LG, Oled65, 2021, RED, $456.0, Not Available, 65.0 inch, SmartTV

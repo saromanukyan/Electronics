@@ -1,0 +1,2 @@
+Apple, IPhone 7, 2011, WHITE, $985.0, Not Available, 2 Sim Card, 8.2 inch, 6.6 MP, 64 GB
+Samsung, A12, 2012, BLACK, $856.0, Available, 3 Sim Card, 8.4 inch, 12.0 MP, 128 GB
