@@ -34,6 +34,7 @@ public abstract class MobilePhone extends Electronics implements Diagonal {
 
     @Override
     public String getShortFormInfo() {
-        return super.getShortFormInfo() + ", " + getNumberOfSIMCards() + " Sim Card, " + getScreenSize() + " inch";
+        return super.getShortFormInfo() + ", " + getNumberOfSIMCards() +
+                (getNumberOfSIMCards() == 1 ? " Sim Card, " : " Sim Cards, ") + getScreenSize() + " inch";
     }
 }
