@@ -27,7 +27,7 @@ public abstract class ComputerService extends ElectronicsService {
     public static void printSSDsRAMlessOrEqual16GB(Electronics[] electronics) {
         Computer[] computers = Arrays.copyOf(electronics, electronics.length, Computer[].class);
         for (Computer computer : computers) {
-            if (computer.getHardDrive().equals("SSD") && computer.getRAM() < 16)
+            if (computer.getHardDrive().equals("SSD") && computer.getRAM() <= 16)
                 computer.printInfo();
         }
     }
