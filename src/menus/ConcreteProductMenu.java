@@ -24,8 +24,8 @@ public class ConcreteProductMenu extends Menu {
                     MainService.createProductAndAddToFile(productName);
                     new ConcreteProductMenu(productName).getMenu();
                 }
-                case 3 -> new MainMenu().getMenu();
-                case 4 -> {
+                case 2 -> new MainMenu().getMenu();
+                case 3 -> {
                     isMenuActive = false;
                     System.out.println("Thank you!");
                 }
